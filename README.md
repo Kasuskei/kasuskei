@@ -10,6 +10,7 @@
 ## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Kasuskei/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Suspected Cloud VM Compromise)]()
 
 <hr/>
 
